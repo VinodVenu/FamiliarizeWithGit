@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Users\\Sudi-PC1\\source\\repos\\myNewApp\\myNewApp.csproj",
         "projectName": "myNewApp",
         "projectPath": "C:\\Users\\Sudi-PC1\\source\\repos\\myNewApp\\myNewApp.csproj",
-        "packagesPath": "C:\\Users\\Sudi-PC1\\.nuget\\packages\\",
+        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Sudi-PC1\\source\\repos\\myNewApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sudi-PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
