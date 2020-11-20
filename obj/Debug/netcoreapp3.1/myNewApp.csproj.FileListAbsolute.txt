@@ -1,0 +1,13 @@
+C:\Users\Sudi-PC1\source\repos\myNewApp\bin\Debug\netcoreapp3.1\myNewApp.exe
+C:\Users\Sudi-PC1\source\repos\myNewApp\bin\Debug\netcoreapp3.1\myNewApp.deps.json
+C:\Users\Sudi-PC1\source\repos\myNewApp\bin\Debug\netcoreapp3.1\myNewApp.runtimeconfig.json
+C:\Users\Sudi-PC1\source\repos\myNewApp\bin\Debug\netcoreapp3.1\myNewApp.runtimeconfig.dev.json
+C:\Users\Sudi-PC1\source\repos\myNewApp\bin\Debug\netcoreapp3.1\myNewApp.dll
+C:\Users\Sudi-PC1\source\repos\myNewApp\bin\Debug\netcoreapp3.1\myNewApp.pdb
+C:\Users\Sudi-PC1\source\repos\myNewApp\obj\Debug\netcoreapp3.1\myNewApp.csprojAssemblyReference.cache
+C:\Users\Sudi-PC1\source\repos\myNewApp\obj\Debug\netcoreapp3.1\myNewApp.csproj.CoreCompileInputs.cache
+C:\Users\Sudi-PC1\source\repos\myNewApp\obj\Debug\netcoreapp3.1\myNewApp.AssemblyInfoInputs.cache
+C:\Users\Sudi-PC1\source\repos\myNewApp\obj\Debug\netcoreapp3.1\myNewApp.AssemblyInfo.cs
+C:\Users\Sudi-PC1\source\repos\myNewApp\obj\Debug\netcoreapp3.1\myNewApp.dll
+C:\Users\Sudi-PC1\source\repos\myNewApp\obj\Debug\netcoreapp3.1\myNewApp.pdb
+C:\Users\Sudi-PC1\source\repos\myNewApp\obj\Debug\netcoreapp3.1\myNewApp.genruntimeconfig.cache
